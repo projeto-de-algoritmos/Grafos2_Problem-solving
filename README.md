@@ -28,13 +28,13 @@ Resolução de problemas da plataforma beecrowd, sendo os problemas conhecidos c
 ## Screenshots
 
 - **DFSr - Depth Hierarchy** <br>
-![DFSr](screenshots\DFSr.png)
+![DFSr](https://github.com/projeto-de-algoritmos/Grafos2_Problem-solving/blob/8f12402c165b8966727f0cdba4f26e32bedb3bb4/screenshots/DFSr.png)
 - **Dark Roads**<br>
-![Dark Roads](screenshots\EstradasEscuras.png)
+![Dark Roads](https://github.com/projeto-de-algoritmos/Grafos2_Problem-solving/blob/8f12402c165b8966727f0cdba4f26e32bedb3bb4/screenshots/EstradasEscuras.png)
 - **Countries at War** <br>
-![Countries at War](screenshots\PaisesEmGuerra.png)
+![Countries at War](https://github.com/projeto-de-algoritmos/Grafos2_Problem-solving/blob/8f12402c165b8966727f0cdba4f26e32bedb3bb4/screenshots/PaisesEmGuerra.png)
 
 
 
 ## Apresentação 
-![Apresentação](apresentacao\Grafos2_Dupla38.mp4)
+![Apresentação](https://github.com/projeto-de-algoritmos/Grafos2_Problem-solving/blob/8f12402c165b8966727f0cdba4f26e32bedb3bb4/apresentacao/Grafos2_Dupla38.mp4)
