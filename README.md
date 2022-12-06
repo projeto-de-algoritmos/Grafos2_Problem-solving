@@ -19,17 +19,22 @@
 ## Sobre 
 Resolução de problemas da plataforma beecrowd, sendo os problemas conhecidos como: 
 
-- **Dark Roads**<br>
 - **DFSr - Depth Hierarchy** <br>
+- **Dark Roads**<br>
 - **Countries at War** <br>
 
 
 
 ## Screenshots
 
-![DFSr]()
-![Dark Roads]()
-![Countries at War]()
+- **DFSr - Depth Hierarchy** <br>
+![DFSr](screenshots\DFSr.png)
+- **Dark Roads**<br>
+![Dark Roads](screenshots\EstradasEscuras.png)
+- **Countries at War** <br>
+![Countries at War](screenshots\PaisesEmGuerra.png)
 
 
 
+## Apresentação 
+![Apresentação](apresentacao\Grafos2_Dupla38.mp4)
