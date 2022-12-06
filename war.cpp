@@ -78,7 +78,7 @@ int main()
 
       if (dijkstra(origin, destiny) == MAX)
       {
-        cout << "Unable to deliver the letter\n";
+        cout << "Nao e possivel entregar a carta\n";
       }
       else
       {
