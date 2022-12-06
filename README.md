@@ -38,4 +38,4 @@ Resolução de problemas da plataforma beecrowd, sendo os problemas conhecidos c
 
 ## Apresentação 
 ![Apresentação no git](https://github.com/projeto-de-algoritmos/Grafos2_Problem-solving/blob/8f12402c165b8966727f0cdba4f26e32bedb3bb4/apresentacao/Grafos2_Dupla38.mp4)
-ou ![Youtube](https://youtu.be/OysWBOEqE-w)
+ou https://youtu.be/OysWBOEqE-w
